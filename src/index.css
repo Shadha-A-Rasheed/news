@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Purple+Purse&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.heading{
+    font-family: "Purple Purse", serif;
+    text-align: center;
+    font-weight: 200;
+    font-size: 70px;
+}
+
+.news{
+    font-family: "PT Serif", serif;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+    color: brown;
+}
+
+a:visited{
+    color: blue;
+}
+
